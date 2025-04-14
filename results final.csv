@@ -1,0 +1,353 @@
+
+Training with hidden_size=128, lr=0.01, reg=0.0001
+Epoch 1/10, Loss: 312.9682, Val Acc: 0.3048
+Epoch 2/10, Loss: 312.2380, Val Acc: 0.3184
+Epoch 3/10, Loss: 313.1360, Val Acc: 0.3284
+Epoch 4/10, Loss: 312.3149, Val Acc: 0.3590
+Epoch 5/10, Loss: 312.4479, Val Acc: 0.3756
+Epoch 6/10, Loss: 312.9100, Val Acc: 0.3758
+Epoch 7/10, Loss: 312.6745, Val Acc: 0.3856
+Epoch 8/10, Loss: 312.4742, Val Acc: 0.4070
+Epoch 9/10, Loss: 312.5654, Val Acc: 0.4086
+Epoch 10/10, Loss: 311.9275, Val Acc: 0.4244
+Validation Accuracy: 0.4244
+
+Training with hidden_size=128, lr=0.01, reg=0.001
+Epoch 1/10, Loss: 312.9339, Val Acc: 0.2976
+Epoch 2/10, Loss: 312.8755, Val Acc: 0.3290
+Epoch 3/10, Loss: 312.7625, Val Acc: 0.3410
+Epoch 4/10, Loss: 312.4295, Val Acc: 0.3596
+Epoch 5/10, Loss: 312.4582, Val Acc: 0.3816
+Epoch 6/10, Loss: 313.1338, Val Acc: 0.3550
+Epoch 7/10, Loss: 312.3993, Val Acc: 0.4012
+Epoch 8/10, Loss: 313.1160, Val Acc: 0.3786
+Epoch 9/10, Loss: 312.1961, Val Acc: 0.3670
+Epoch 10/10, Loss: 312.2611, Val Acc: 0.3564
+Validation Accuracy: 0.3564
+
+Training with hidden_size=128, lr=0.01, reg=0.01
+Epoch 1/10, Loss: 313.8113, Val Acc: 0.2618
+Epoch 2/10, Loss: 313.7480, Val Acc: 0.2896
+Epoch 3/10, Loss: 313.7159, Val Acc: 0.3150
+Epoch 4/10, Loss: 313.2304, Val Acc: 0.3298
+Epoch 5/10, Loss: 312.8799, Val Acc: 0.3784
+Epoch 6/10, Loss: 313.5505, Val Acc: 0.3774
+Epoch 7/10, Loss: 313.3507, Val Acc: 0.3852
+Epoch 8/10, Loss: 312.9595, Val Acc: 0.3806
+Epoch 9/10, Loss: 312.7651, Val Acc: 0.4056
+Epoch 10/10, Loss: 312.6501, Val Acc: 0.3948
+Validation Accuracy: 0.3948
+
+Training with hidden_size=128, lr=0.001, reg=0.0001
+Epoch 1/10, Loss: 313.1456, Val Acc: 0.1264
+Epoch 2/10, Loss: 313.0901, Val Acc: 0.1884
+Epoch 3/10, Loss: 312.9309, Val Acc: 0.2428
+Epoch 4/10, Loss: 312.8195, Val Acc: 0.2676
+Epoch 5/10, Loss: 312.8811, Val Acc: 0.2766
+Epoch 6/10, Loss: 313.0600, Val Acc: 0.2778
+Epoch 7/10, Loss: 312.9803, Val Acc: 0.2894
+Epoch 8/10, Loss: 312.5586, Val Acc: 0.2984
+Epoch 9/10, Loss: 312.4339, Val Acc: 0.3020
+Epoch 10/10, Loss: 312.9979, Val Acc: 0.3150
+Validation Accuracy: 0.3150
+
+Training with hidden_size=128, lr=0.001, reg=0.001
+Epoch 1/10, Loss: 313.2485, Val Acc: 0.1278
+Epoch 2/10, Loss: 313.2198, Val Acc: 0.1802
+Epoch 3/10, Loss: 313.0971, Val Acc: 0.2316
+Epoch 4/10, Loss: 313.1823, Val Acc: 0.2476
+Epoch 5/10, Loss: 313.0747, Val Acc: 0.2654
+Epoch 6/10, Loss: 313.1193, Val Acc: 0.2860
+Epoch 7/10, Loss: 312.9462, Val Acc: 0.2872
+Epoch 8/10, Loss: 312.8377, Val Acc: 0.2940
+Epoch 9/10, Loss: 312.9368, Val Acc: 0.3014
+Epoch 10/10, Loss: 312.7620, Val Acc: 0.3026
+Validation Accuracy: 0.3026
+
+Training with hidden_size=128, lr=0.001, reg=0.01
+Epoch 1/10, Loss: 314.4021, Val Acc: 0.1492
+Epoch 2/10, Loss: 314.3126, Val Acc: 0.1830
+Epoch 3/10, Loss: 314.1881, Val Acc: 0.2210
+Epoch 4/10, Loss: 314.0622, Val Acc: 0.2406
+Epoch 5/10, Loss: 314.2087, Val Acc: 0.2674
+Epoch 6/10, Loss: 314.4325, Val Acc: 0.2792
+Epoch 7/10, Loss: 314.0674, Val Acc: 0.2884
+Epoch 8/10, Loss: 313.8749, Val Acc: 0.2950
+Epoch 9/10, Loss: 314.0533, Val Acc: 0.2986
+Epoch 10/10, Loss: 314.1605, Val Acc: 0.3060
+Validation Accuracy: 0.3060
+
+Training with hidden_size=128, lr=0.0001, reg=0.0001
+Epoch 1/10, Loss: 313.1778, Val Acc: 0.0956
+Epoch 2/10, Loss: 313.1407, Val Acc: 0.1198
+Epoch 3/10, Loss: 313.1197, Val Acc: 0.1122
+Epoch 4/10, Loss: 313.1578, Val Acc: 0.1140
+Epoch 5/10, Loss: 313.1546, Val Acc: 0.1170
+Epoch 6/10, Loss: 313.1917, Val Acc: 0.1244
+Epoch 7/10, Loss: 313.1023, Val Acc: 0.1282
+Epoch 8/10, Loss: 313.0684, Val Acc: 0.1340
+Epoch 9/10, Loss: 313.1087, Val Acc: 0.1384
+Epoch 10/10, Loss: 313.1498, Val Acc: 0.1444
+Validation Accuracy: 0.1444
+
+Training with hidden_size=128, lr=0.0001, reg=0.001
+Epoch 1/10, Loss: 313.2693, Val Acc: 0.0914
+Epoch 2/10, Loss: 313.2762, Val Acc: 0.1322
+Epoch 3/10, Loss: 313.2745, Val Acc: 0.1284
+Epoch 4/10, Loss: 313.2709, Val Acc: 0.1174
+Epoch 5/10, Loss: 313.2679, Val Acc: 0.1162
+Epoch 6/10, Loss: 313.2649, Val Acc: 0.1182
+Epoch 7/10, Loss: 313.2397, Val Acc: 0.1180
+Epoch 8/10, Loss: 313.2684, Val Acc: 0.1220
+Epoch 9/10, Loss: 313.2021, Val Acc: 0.1258
+Epoch 10/10, Loss: 313.2458, Val Acc: 0.1328
+Validation Accuracy: 0.1328
+
+Training with hidden_size=128, lr=0.0001, reg=0.01
+Epoch 1/10, Loss: 314.4501, Val Acc: 0.0970
+Epoch 2/10, Loss: 314.4496, Val Acc: 0.1290
+Epoch 3/10, Loss: 314.4249, Val Acc: 0.1268
+Epoch 4/10, Loss: 314.3979, Val Acc: 0.1158
+Epoch 5/10, Loss: 314.3994, Val Acc: 0.1106
+Epoch 6/10, Loss: 314.4122, Val Acc: 0.1098
+Epoch 7/10, Loss: 314.3880, Val Acc: 0.1108
+Epoch 8/10, Loss: 314.4097, Val Acc: 0.1128
+Epoch 9/10, Loss: 314.3432, Val Acc: 0.1168
+Epoch 10/10, Loss: 314.4120, Val Acc: 0.1208
+Validation Accuracy: 0.1208
+
+Training with hidden_size=256, lr=0.01, reg=0.0001
+Epoch 1/10, Loss: 312.5537, Val Acc: 0.2718
+Epoch 2/10, Loss: 312.5600, Val Acc: 0.3410
+Epoch 3/10, Loss: 312.6648, Val Acc: 0.3050
+Epoch 4/10, Loss: 312.2750, Val Acc: 0.3786
+Epoch 5/10, Loss: 312.7003, Val Acc: 0.3526
+Epoch 6/10, Loss: 312.7741, Val Acc: 0.4034
+Epoch 7/10, Loss: 312.3734, Val Acc: 0.3978
+Epoch 8/10, Loss: 312.6662, Val Acc: 0.4082
+Epoch 9/10, Loss: 313.0593, Val Acc: 0.4050
+Epoch 10/10, Loss: 312.8220, Val Acc: 0.4084
+Validation Accuracy: 0.4084
+
+Training with hidden_size=256, lr=0.01, reg=0.001
+Epoch 1/10, Loss: 313.2723, Val Acc: 0.3222
+Epoch 2/10, Loss: 312.9291, Val Acc: 0.3462
+Epoch 3/10, Loss: 312.6416, Val Acc: 0.3552
+Epoch 4/10, Loss: 312.4976, Val Acc: 0.3522
+Epoch 5/10, Loss: 312.9553, Val Acc: 0.4066
+Epoch 6/10, Loss: 312.2508, Val Acc: 0.3970
+Epoch 7/10, Loss: 312.7109, Val Acc: 0.3788
+Epoch 8/10, Loss: 313.0209, Val Acc: 0.3512
+Epoch 9/10, Loss: 313.2270, Val Acc: 0.4310
+Epoch 10/10, Loss: 312.4619, Val Acc: 0.3882
+Validation Accuracy: 0.3882
+
+Training with hidden_size=256, lr=0.01, reg=0.01
+Epoch 1/10, Loss: 314.8516, Val Acc: 0.3074
+Epoch 2/10, Loss: 314.6928, Val Acc: 0.3382
+Epoch 3/10, Loss: 314.5168, Val Acc: 0.3208
+Epoch 4/10, Loss: 314.0670, Val Acc: 0.3796
+Epoch 5/10, Loss: 314.0012, Val Acc: 0.3858
+Epoch 6/10, Loss: 314.0366, Val Acc: 0.4034
+Epoch 7/10, Loss: 313.2413, Val Acc: 0.3680
+Epoch 8/10, Loss: 313.0487, Val Acc: 0.4048
+Epoch 9/10, Loss: 313.2986, Val Acc: 0.3944
+Epoch 10/10, Loss: 312.6269, Val Acc: 0.3560
+Validation Accuracy: 0.3560
+
+Training with hidden_size=256, lr=0.001, reg=0.0001
+Epoch 1/10, Loss: 313.0937, Val Acc: 0.2070
+Epoch 2/10, Loss: 313.1121, Val Acc: 0.2476
+Epoch 3/10, Loss: 313.0207, Val Acc: 0.2810
+Epoch 4/10, Loss: 312.9608, Val Acc: 0.2904
+Epoch 5/10, Loss: 312.8152, Val Acc: 0.2916
+Epoch 6/10, Loss: 312.8269, Val Acc: 0.2996
+Epoch 7/10, Loss: 313.0913, Val Acc: 0.3120
+Epoch 8/10, Loss: 312.7503, Val Acc: 0.3154
+Epoch 9/10, Loss: 312.6549, Val Acc: 0.3240
+Epoch 10/10, Loss: 312.8348, Val Acc: 0.3278
+Validation Accuracy: 0.3278
+
+Training with hidden_size=256, lr=0.001, reg=0.001
+Epoch 1/10, Loss: 313.3195, Val Acc: 0.2006
+Epoch 2/10, Loss: 313.2750, Val Acc: 0.2392
+Epoch 3/10, Loss: 313.2094, Val Acc: 0.2614
+Epoch 4/10, Loss: 313.4014, Val Acc: 0.2786
+Epoch 5/10, Loss: 313.1834, Val Acc: 0.2896
+Epoch 6/10, Loss: 313.2925, Val Acc: 0.3136
+Epoch 7/10, Loss: 313.2345, Val Acc: 0.3064
+Epoch 8/10, Loss: 312.7847, Val Acc: 0.3108
+Epoch 9/10, Loss: 312.8464, Val Acc: 0.3166
+Epoch 10/10, Loss: 313.1361, Val Acc: 0.3254
+Validation Accuracy: 0.3254
+
+Training with hidden_size=256, lr=0.001, reg=0.01
+Epoch 1/10, Loss: 315.6941, Val Acc: 0.1608
+Epoch 2/10, Loss: 315.5066, Val Acc: 0.2432
+Epoch 3/10, Loss: 315.4062, Val Acc: 0.2710
+Epoch 4/10, Loss: 315.4301, Val Acc: 0.2808
+Epoch 5/10, Loss: 315.5545, Val Acc: 0.2984
+Epoch 6/10, Loss: 315.0477, Val Acc: 0.3000
+Epoch 7/10, Loss: 315.4071, Val Acc: 0.3130
+Epoch 8/10, Loss: 315.0606, Val Acc: 0.3128
+Epoch 9/10, Loss: 314.6391, Val Acc: 0.3208
+Epoch 10/10, Loss: 315.4518, Val Acc: 0.3250
+Validation Accuracy: 0.3250
+
+Training with hidden_size=256, lr=0.0001, reg=0.0001
+Epoch 1/10, Loss: 313.1722, Val Acc: 0.1190
+Epoch 2/10, Loss: 313.1381, Val Acc: 0.1448
+Epoch 3/10, Loss: 313.1199, Val Acc: 0.1398
+Epoch 4/10, Loss: 313.1678, Val Acc: 0.1424
+Epoch 5/10, Loss: 313.2115, Val Acc: 0.1488
+Epoch 6/10, Loss: 313.1279, Val Acc: 0.1574
+Epoch 7/10, Loss: 313.1130, Val Acc: 0.1678
+Epoch 8/10, Loss: 313.0746, Val Acc: 0.1786
+Epoch 9/10, Loss: 313.2064, Val Acc: 0.1904
+Epoch 10/10, Loss: 313.1337, Val Acc: 0.1998
+Validation Accuracy: 0.1998
+
+Training with hidden_size=256, lr=0.0001, reg=0.001
+Epoch 1/10, Loss: 313.4198, Val Acc: 0.1022
+Epoch 2/10, Loss: 313.3909, Val Acc: 0.1114
+Epoch 3/10, Loss: 313.3902, Val Acc: 0.1226
+Epoch 4/10, Loss: 313.4114, Val Acc: 0.1276
+Epoch 5/10, Loss: 313.4134, Val Acc: 0.1416
+Epoch 6/10, Loss: 313.4114, Val Acc: 0.1596
+Epoch 7/10, Loss: 313.3781, Val Acc: 0.1732
+Epoch 8/10, Loss: 313.3358, Val Acc: 0.1864
+Epoch 9/10, Loss: 313.3084, Val Acc: 0.2014
+Epoch 10/10, Loss: 313.3387, Val Acc: 0.2118
+Validation Accuracy: 0.2118
+
+Training with hidden_size=256, lr=0.0001, reg=0.01
+Epoch 1/10, Loss: 315.6850, Val Acc: 0.1156
+Epoch 2/10, Loss: 315.7242, Val Acc: 0.1280
+Epoch 3/10, Loss: 315.6979, Val Acc: 0.1308
+Epoch 4/10, Loss: 315.7094, Val Acc: 0.1394
+Epoch 5/10, Loss: 315.6536, Val Acc: 0.1490
+Epoch 6/10, Loss: 315.6704, Val Acc: 0.1582
+Epoch 7/10, Loss: 315.6457, Val Acc: 0.1714
+Epoch 8/10, Loss: 315.6391, Val Acc: 0.1818
+Epoch 9/10, Loss: 315.5653, Val Acc: 0.1930
+Epoch 10/10, Loss: 315.6679, Val Acc: 0.2006
+Validation Accuracy: 0.2006
+
+Training with hidden_size=512, lr=0.01, reg=0.0001
+Epoch 1/10, Loss: 312.5627, Val Acc: 0.3292
+Epoch 2/10, Loss: 312.7357, Val Acc: 0.3446
+Epoch 3/10, Loss: 312.1980, Val Acc: 0.3652
+Epoch 4/10, Loss: 312.7211, Val Acc: 0.3948
+Epoch 5/10, Loss: 312.7978, Val Acc: 0.3488
+Epoch 6/10, Loss: 313.0524, Val Acc: 0.4100
+Epoch 7/10, Loss: 312.8589, Val Acc: 0.4326
+Epoch 8/10, Loss: 312.4901, Val Acc: 0.4056
+Epoch 9/10, Loss: 312.1773, Val Acc: 0.4060
+Epoch 10/10, Loss: 312.2700, Val Acc: 0.4448
+Validation Accuracy: 0.4448
+
+Training with hidden_size=512, lr=0.01, reg=0.001
+Epoch 1/10, Loss: 313.2890, Val Acc: 0.3066
+Epoch 2/10, Loss: 312.3798, Val Acc: 0.3690
+Epoch 3/10, Loss: 312.9213, Val Acc: 0.3494
+Epoch 4/10, Loss: 312.9260, Val Acc: 0.3638
+Epoch 5/10, Loss: 312.8806, Val Acc: 0.3990
+Epoch 6/10, Loss: 312.8802, Val Acc: 0.4098
+Epoch 7/10, Loss: 312.5990, Val Acc: 0.3432
+Epoch 8/10, Loss: 313.5146, Val Acc: 0.4188
+Epoch 9/10, Loss: 312.8790, Val Acc: 0.3564
+Epoch 10/10, Loss: 312.7793, Val Acc: 0.4410
+Validation Accuracy: 0.4410
+
+Training with hidden_size=512, lr=0.01, reg=0.01
+Epoch 1/10, Loss: 317.3026, Val Acc: 0.3264
+Epoch 2/10, Loss: 317.1633, Val Acc: 0.3414
+Epoch 3/10, Loss: 315.8261, Val Acc: 0.3684
+Epoch 4/10, Loss: 315.5391, Val Acc: 0.3636
+Epoch 5/10, Loss: 315.3520, Val Acc: 0.3970
+Epoch 6/10, Loss: 314.4933, Val Acc: 0.3934
+Epoch 7/10, Loss: 315.0913, Val Acc: 0.3978
+Epoch 8/10, Loss: 314.3197, Val Acc: 0.3620
+Epoch 9/10, Loss: 314.1844, Val Acc: 0.3732
+Epoch 10/10, Loss: 314.3099, Val Acc: 0.4080
+Validation Accuracy: 0.4080
+
+Training with hidden_size=512, lr=0.001, reg=0.0001
+Epoch 1/10, Loss: 313.1050, Val Acc: 0.2320
+Epoch 2/10, Loss: 313.1226, Val Acc: 0.2660
+Epoch 3/10, Loss: 313.2507, Val Acc: 0.2966
+Epoch 4/10, Loss: 312.9025, Val Acc: 0.3104
+Epoch 5/10, Loss: 313.0641, Val Acc: 0.3230
+Epoch 6/10, Loss: 312.7406, Val Acc: 0.3168
+Epoch 7/10, Loss: 312.3371, Val Acc: 0.3246
+Epoch 8/10, Loss: 313.0383, Val Acc: 0.3380
+Epoch 9/10, Loss: 312.8186, Val Acc: 0.3414
+Epoch 10/10, Loss: 312.6127, Val Acc: 0.3452
+Validation Accuracy: 0.3452
+
+Training with hidden_size=512, lr=0.001, reg=0.001
+Epoch 1/10, Loss: 313.5973, Val Acc: 0.2160
+Epoch 2/10, Loss: 313.5401, Val Acc: 0.2816
+Epoch 3/10, Loss: 313.4287, Val Acc: 0.2808
+Epoch 4/10, Loss: 313.3008, Val Acc: 0.3044
+Epoch 5/10, Loss: 313.3192, Val Acc: 0.3248
+Epoch 6/10, Loss: 313.4434, Val Acc: 0.3310
+Epoch 7/10, Loss: 313.3051, Val Acc: 0.3368
+Epoch 8/10, Loss: 313.0096, Val Acc: 0.3434
+Epoch 9/10, Loss: 313.4102, Val Acc: 0.3466
+Epoch 10/10, Loss: 312.8217, Val Acc: 0.3530
+Validation Accuracy: 0.3530
+
+Training with hidden_size=512, lr=0.001, reg=0.01
+Epoch 1/10, Loss: 318.1321, Val Acc: 0.2582
+Epoch 2/10, Loss: 317.8762, Val Acc: 0.2578
+Epoch 3/10, Loss: 317.7782, Val Acc: 0.2820
+Epoch 4/10, Loss: 317.8093, Val Acc: 0.3066
+Epoch 5/10, Loss: 317.8532, Val Acc: 0.3132
+Epoch 6/10, Loss: 317.3510, Val Acc: 0.3236
+Epoch 7/10, Loss: 317.7099, Val Acc: 0.3278
+Epoch 8/10, Loss: 317.4293, Val Acc: 0.3294
+Epoch 9/10, Loss: 317.5747, Val Acc: 0.3390
+Epoch 10/10, Loss: 316.9492, Val Acc: 0.3410
+Validation Accuracy: 0.3410
+
+Training with hidden_size=512, lr=0.0001, reg=0.0001
+Epoch 1/10, Loss: 313.1944, Val Acc: 0.1542
+Epoch 2/10, Loss: 313.1559, Val Acc: 0.1572
+Epoch 3/10, Loss: 313.1711, Val Acc: 0.1616
+Epoch 4/10, Loss: 313.1906, Val Acc: 0.1708
+Epoch 5/10, Loss: 313.0919, Val Acc: 0.1834
+Epoch 6/10, Loss: 313.2273, Val Acc: 0.1990
+Epoch 7/10, Loss: 313.1723, Val Acc: 0.2122
+Epoch 8/10, Loss: 313.0965, Val Acc: 0.2266
+Epoch 9/10, Loss: 313.0746, Val Acc: 0.2284
+Epoch 10/10, Loss: 313.1726, Val Acc: 0.2358
+Validation Accuracy: 0.2358
+
+Training with hidden_size=512, lr=0.0001, reg=0.001
+Epoch 1/10, Loss: 313.6247, Val Acc: 0.1006
+Epoch 2/10, Loss: 313.6341, Val Acc: 0.1254
+Epoch 3/10, Loss: 313.6575, Val Acc: 0.1396
+Epoch 4/10, Loss: 313.6272, Val Acc: 0.1552
+Epoch 5/10, Loss: 313.6129, Val Acc: 0.1660
+Epoch 6/10, Loss: 313.6714, Val Acc: 0.1838
+Epoch 7/10, Loss: 313.6640, Val Acc: 0.1988
+Epoch 8/10, Loss: 313.6434, Val Acc: 0.2106
+Epoch 9/10, Loss: 313.5248, Val Acc: 0.2210
+Epoch 10/10, Loss: 313.4350, Val Acc: 0.2312
+Validation Accuracy: 0.2312
+
+Training with hidden_size=512, lr=0.0001, reg=0.01
+Epoch 1/10, Loss: 318.1961, Val Acc: 0.1166
+Epoch 2/10, Loss: 318.2494, Val Acc: 0.1346
+Epoch 3/10, Loss: 318.2063, Val Acc: 0.1444
+Epoch 4/10, Loss: 318.1874, Val Acc: 0.1614
+Epoch 5/10, Loss: 318.1291, Val Acc: 0.1742
+Epoch 6/10, Loss: 318.1536, Val Acc: 0.1926
+Epoch 7/10, Loss: 318.0919, Val Acc: 0.2044
+Epoch 8/10, Loss: 318.1283, Val Acc: 0.2154
+Epoch 9/10, Loss: 318.1417, Val Acc: 0.2214
+Epoch 10/10, Loss: 318.1527, Val Acc: 0.2242
+Validation Accuracy: 0.2242
+
+Best parameters: hidden_size=512, lr=0.01, reg=0.0001 with Val Acc: 0.4448
