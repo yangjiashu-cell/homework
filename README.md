@@ -88,7 +88,8 @@
 ## 模型权重
 
 - 训练好的最优模型权重文件 `best_model.npy` 已上传至百度云：
-  - **下载地址**: [百度云链接](https://pan.baidu.com/s/your-link)（请替换为实际链接）
+  - **下载地址**: [百度云链接]通过网盘分享的文件：best_model.npy
+链接: https://pan.baidu.com/s/1TQP8XaPlPujgIybRCiE6Zw 提取码: x7jr
   - 下载后，将文件放置在项目根目录下即可用于测试。
 
 ## 注意事项
